@@ -14,7 +14,7 @@
 ## 🛠️ Tecnologias & Ferramentas
 <div align="center">
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-3776AB?style=flat&logo=java&logoColor=white) ![C](https://img.shields.io/badge/-C-3776AB?style=flat&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-3776AB?style=flat&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3776AB?style=flat&logo=typescript&logoColor=white) ![AI/ML](https://img.shields.io/badge/-AIML-3776AB?style=flat&logo=aiml&logoColor=white) ![Algoritmos](https://img.shields.io/badge/-Algoritmos-3776AB?style=flat&logo=algoritmos&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-3776AB?style=flat&logo=java&logoColor=white) ![C](https://img.shields.io/badge/-C-3776AB?style=flat&logo=c&logoColor=white)
 
 </div>
 
